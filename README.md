@@ -1,7 +1,9 @@
-## Magic Mouse 2 Scroll Ubuntu
+## Magic Mouse 2 Ubuntu
 
 ### Description
 This repository contains a Bash script for enabling scroll functionality on the Magic Mouse 2 in Ubuntu. The script utilizes parameters for the hid-magicmouse module to emulate scroll wheel behavior, middle click functionality, and adjust scroll acceleration and speed.
+
+<img src="https://github.com/matiasrodlo/magic-mouse-ubuntu/assets/52969662/db06c8de-5ee5-4ca0-8a79-3ad5887ac5a4" alt="Magic Mouse Gestures">
 
 ### Usage
 1. **Create the Script:**
